@@ -1,0 +1,70 @@
+bidict @ file:///tmp/build/80754af9/bidict_1607541094382/work
+blinker @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_006wdibaig/croot/blinker_1696539075381/work
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1725267521616/work
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c7dh9wvd8f/croot/certifi_1725551679893/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560630059/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1728479282467/work
+click @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f27dk3zwrb/croot/click_1698129816363/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1731428352834/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+filelock @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cd61an5em3/croot/filelock_1700591192468/work
+Flask @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0bn8z9nupr/croot/flask_1716545880759/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+Flask-SocketIO @ file:///Users/ec2-user/ci_py311/flask-socketio_1678411926790/work
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1731643441256/work
+gevent @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_11w5rkg7sp/croot/gevent_1703058799021/work
+gevent-websocket @ file:///Users/ec2-user/ci_py311/gevent-websocket_1678412309047/work
+gmpy2 @ file:///Users/ec2-user/ci_py311/gmpy2_1678380831980/work
+greenlet @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_10cuim1il_/croot/greenlet_1702059962773/work
+h11==0.14.0
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
+hpack==4.0.0
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1726459485162/work
+itsdangerous @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f7bt4rtvu8/croot/itsdangerous_1716533350521/work
+Jinja2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8dveqartkv/croot/jinja2_1730902844110/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1725459172248/work
+MarkupSafe @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3a_cffw83x/croot/markupsafe_1704205995714/work
+matplotlib==3.9.2
+mpmath @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_8fyoqwupl2/croot/mpmath_1690848275746/work
+munkres==1.1.4
+networkx @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_a3v8naews9/croot/networkx_1720002488636/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1707225620241/work/dist/numpy-1.26.4-cp311-cp311-macosx_10_9_x86_64.whl#sha256=0c694e57489122e5217f1154a05d3d7dd11011371f482a0bcd7692bad5da2ca0
+opencv-python==4.10.0
+opencv-python-headless==4.10.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1731802491770/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1726878436960/work
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1731432186484/work
+pillow @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fcis89cefs/croot/pillow_1731594713271/work
+psutil @ file:///Users/runner/miniforge3/conda-bld/psutil_1729847055277/work
+py-cpuinfo @ file:///home/conda/feedstock_root/build_artifacts/py-cpuinfo_1666774466606/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1728880423364/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1731919281354/work
+python-engineio==4.10.1
+python-socketio @ file:///tmp/build/80754af9/python-socketio_1624540179952/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1725456244410/work
+requests @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2eh84h3yiv/croot/requests_1730999127987/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1729480724450/work/dist/scipy-1.14.1-cp311-cp311-macosx_10_13_x86_64.whl#sha256=42dc8d700d911a9bcc343eac6b8e1bc774114a0b7d1dd6b93aafb1ea44e8672a
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1714494649443/work
+simple-websocket==1.1.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1727986714636/work
+sympy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4by5rj7_56/croot/sympy_1724938199913/work
+torch==2.2.2
+torchvision==0.17.2
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1730926118411/work
+typing_extensions @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_0b3pj9yhn2/croot/typing_extensions_1715268854415/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1727140567071/work
+ultralytics @ file:///home/conda/feedstock_root/build_artifacts/ultralytics_1732064557169/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1729704561146/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1726496430923/work
+waitress @ file:///tmp/build/80754af9/waitress_1615230899664/work
+Werkzeug @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_34hd27z78h/croot/werkzeug_1731005772104/work
+wsproto==1.2.0
+zope.event @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_dcjiozuq78/croot/zope.event_1702999623409/work
+zope.interface @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_2ailsqlgu_/croot/zope.interface_1731939355791/work
+zstandard==0.23.0
