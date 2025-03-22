@@ -1,0 +1,35 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files
+*.py text diff=python
+
+# Documentation
+*.md text diff=markdown
+*.txt text
+
+# Binary files
+*.pt binary
+*.weights binary
+*.mp4 binary
+*.avi binary
+*.mov binary
+*.mkv binary
+
+# Jupyter Notebook
+*.ipynb text
+
+# Images
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Documents
+*.pdf binary
+
+# Serialized files
+*.pickle binary
+*.pkl binary
+*.joblib binary
