@@ -44,7 +44,7 @@ net start MongoDB
 ## Signing Up a User
 Before running the application, register an admin user using `curl`:
 ```sh
-curl -X POST http://localhost:5000/api/auth/signup \
+curl -X POST http://localhost:5000/api/v1/signup \
      -H "Content-Type: application/json" \
      -d '{
          "email": "admin@example.com",
